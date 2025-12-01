@@ -254,8 +254,8 @@ jobjectArray GetFeatureList(JNIEnv *env, jobject context) {
 			OBFUSCATE("26_Toggle_Max Player Level"),
 			OBFUSCATE("RichTextView_* = Unstable"),
 			OBFUSCATE("Category_Social"),
-			OBFUSCATE("ButtonLink_Telegram_https://t.me/XtreamModz"),
-			OBFUSCATE("ButtonLink_Report Bug / Suggestions_https://t.me/+lfkfzAyDuYRhM2Zl"),
+			OBFUSCATE("ButtonLink_Telegram_https://t.me/linkuzbio"),
+			OBFUSCATE("ButtonLink_Report Bug / Suggestions_https://t.me/linkuzbio"),
     };
 
     //Now you dont have to manually update the number everytime;
