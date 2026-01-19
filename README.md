@@ -1,6 +1,8 @@
 # TempleRunAU
 [![TempleRunAU Build](https://github.com/FlutterGenerator/TempleRunAU/actions/workflows/build-apk.yml/badge.svg)](https://github.com/FlutterGenerator/TempleRunAU/actions/workflows/build-apk.yml)
 
+[![License Info](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/TempleRunAU/blob/master/LICENSE)
+
 # TempleRun2 Version: (29381071) – 1.127.0
 **Google Play Release Date:** 11 November 2025
 
