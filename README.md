@@ -3,8 +3,8 @@
 
 [![License Info](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/TempleRunAU/blob/master/LICENSE)
 
-# TempleRun2 Version: (29381071) – 1.127.0
-**Google Play Release Date:** 11 November 2025
+# TempleRun2 Version: (29438875) – 1.128.0
+**Google Play Release Date:** 21 December 2025
 
 ![](img.jpg)
 
